@@ -1,0 +1,13 @@
+body{
+		margin-left: 200px;
+		color:green;
+		background-color: #3aafa9;
+	}
+		
+ul.navbar{
+		position: absolute;
+		top: 30px;
+		left: 150px;
+		width: 150px;
+	}
+				
